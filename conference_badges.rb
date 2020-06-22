@@ -21,3 +21,4 @@ def printer(arr)
   batch_badge_creator(arr).each do |badge|
     puts badge
   end
+end
